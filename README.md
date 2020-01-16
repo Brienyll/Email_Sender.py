@@ -1,1 +1,1 @@
-# Email_Sender.py
+# Python Email Sender
